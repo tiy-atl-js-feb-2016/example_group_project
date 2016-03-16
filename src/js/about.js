@@ -1,3 +1,3 @@
 export default function() {
-  return 'awesome about page';
+  return 'awesome about the page';
 }
